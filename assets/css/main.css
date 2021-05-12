@@ -1823,6 +1823,10 @@ input, select, textarea {
 					background-color: #2DAAE4;
 				}
 
+				ul.social li a.fa-file-code {
+					background-color: #e93535;
+				}
+
 				ul.social li a.fa-facebook-f {
 					background-color: #3C5A98;
 				}
@@ -1921,9 +1925,9 @@ input, select, textarea {
 			padding: 3em 2em 3.5em 2em;
 		}
 
-			.box.style1 h3 {
-				margin-bottom: 0.5em;
-			}
+		.box.style1 h3 {
+			margin-bottom: 0.5em;
+		}
 
 		.box.style2 h3 {
 			margin-bottom: 0.25em;
